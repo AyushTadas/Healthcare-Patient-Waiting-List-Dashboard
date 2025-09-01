@@ -32,3 +32,8 @@ User-Friendly Interface**: Includes slicers for easy filtering, navigation butto
 To view and interact with this project, simply download the .pbix file from this repository and open it using Power BI Desktop. The data is pre-loaded and ready for exploration.
 
 # Dashboard Preview
+<img width="985" height="553" alt="image" src="https://github.com/user-attachments/assets/77b5c432-b76c-4d82-b114-3e444f9b4191" />
+
+<img width="998" height="557" alt="image" src="https://github.com/user-attachments/assets/74eb6aec-3ba0-43e6-ad5a-2e8eb4dd53bf" />
+
+
